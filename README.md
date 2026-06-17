@@ -39,7 +39,7 @@ ToolPurposeMySQLData exploration, business health checks, RFM queries using CTEs
 
  Project Structure
 
-
+```
 customer-retention-rfm/
 │
 ├── data/
@@ -75,7 +75,8 @@ customer-retention-rfm/
 │
 ├── requirements.txt
 └── README.md
-
+...
+```
 
 SQL Analysis
 
@@ -131,7 +132,12 @@ SegmentCustomersRevenue% of Total RevenueChampions1,297£11.86M68.3%Loyal Custom
 
 Business Recommendations
 
-PrioritySegmentActionExpected Impact🔴 CriticalCannot Lose Them (223)Personal outreach this week, 20% loyalty creditProtect £982K revenue🔴 CriticalAt Risk — high valuePersonalised win-back, 15% discountRecover up to £524K🟡 HighAbout to Sleep (747)Automated email re-engagement within 30 daysRetain £533K before full churn🟢 GrowthPotential Loyalists (334)Loyalty programme enrolment, upsell campaignsPipeline to £2.57M Loyal tier🟢 GrowthNew Customers (168)Structured 90-day onboarding journeyImprove 21.6% three-month retention rate
+Priority Segmen tAction Expected Impact
+🔴 CriticalCannot Lose Them (223)Personal outreach this week, 20% loyalty credit Protect £982K revenue
+🔴 CriticalAt Risk — high value Personalised win-back, 15% discountRecover up to £524K
+🟡 High About to Sleep (747)Automated email re-engagement within 30 daysRetain £533K before full churn
+🟢 Growth Potential Loyalists (334)Loyalty programme enrolment, upsell campaignsPipeline to £2.57M Loyal tier
+🟢 Growth New Customers (168)Structured 90-day onboarding journeyImprove 21.6% three-month retention rate
 
 
 Dashboard
