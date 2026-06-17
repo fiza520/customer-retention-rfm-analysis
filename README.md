@@ -11,7 +11,7 @@ Online Retail II Dataset (2009–2011) | Python • MySQL • Power BI
 ![RFM Segments](visuals/dashboard_rfm_segments.png)
 
 ### Retention Analysis
-![Retention Analysis](visuals/dashboard_retention.png)
+![Retention Analysis](visuals/dashboard_retendtion.png)
 
 
 Overview
