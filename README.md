@@ -187,19 +187,14 @@ SQL analysis confirmed that 4,255 repeat buyers generate £16.81M (96.8%) of tot
 
 
 
-Dashboard
 
-Overview
 
-Show Image
 
-RFM Segments
 
-Show Image
 
-Retention Analysis
 
-Show Image
+
+
 
 
 ## How to Run
