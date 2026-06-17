@@ -32,9 +32,17 @@ How much revenue is at risk right now, and what actions can recover it?
 
 
 
-Tools and Technologies
+## Tools and Technologies
 
-ToolPurposeMySQLData exploration, business health checks, RFM queries using CTEs and window functionsPython (Pandas, NumPy)Data cleaning, cohort matrix, RFM scoring, segmentationMatplotlib / SeabornAnalytical and exploratory visualizationsPower BIInteractive multi-page dashboardExcel / CSVIntermediate data storage and outputs
+(BLANK LINE)
+| Tool | Purpose |
+| --- | --- |
+| MySQL | Data exploration, business health checks, RFM queries using CTEs and window functions |
+| Python (Pandas, NumPy) | Data cleaning, cohort matrix, RFM scoring, segmentation |
+| Matplotlib / Seaborn | Analytical and exploratory visualizations |
+| Power BI | Interactive multi-page dashboard |
+| Excel / CSV | Intermediate data storage and outputs |
+(BLANK LINE)
 
  Project Structure
 
