@@ -229,10 +229,8 @@ Run notebooks in order
 - 07_EDA.ipynb
 - 08_cohort_analysis.ipynb
 - 09_insights.ipynb
-
-4. Run notebooks in order: 01 → 02 → 03 → 04
-
-5. Open dashboard/rfm_dashboard.pbix in Power BI Desktop
+  
+4. Open dashboard/rfm_dashboard.pbix in Power BI Desktop
 
 ---
 
